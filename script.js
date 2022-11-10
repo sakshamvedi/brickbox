@@ -12,3 +12,9 @@ function toggle(){
     {
        
     }
+
+    function showinstall()
+    {
+        document.getElementById("intro").style.display = "none";
+        document.getElementById("installation").style.display = "block";
+    }

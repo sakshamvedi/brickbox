@@ -14,6 +14,11 @@
     height: 40px;
 }
 
+#installation{
+    display: none;
+}
+
+
 body{
     background-color: #001E3C;
     overflow-x: hidden;
@@ -173,6 +178,9 @@ height: 30px;
 
 #menubar{
     display: none;
+}
+a{
+    text-decoration: none;
 }
 
 
